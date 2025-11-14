@@ -11,7 +11,6 @@ TODO:
 - Elixir
 - Ruby
 - Deno
-- Rust
 
 COMPLETED:
 
@@ -22,5 +21,7 @@ COMPLETED:
 - JavaScript
 - Perl
 - Python
+- Rust
 - TypeScript
 - Shell
+- Zig
